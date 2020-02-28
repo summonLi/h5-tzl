@@ -1,0 +1,61 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "productdetail": [
+    {
+      "id": 1,
+      "name": "金藤爽",
+      "bannerImg": "./static/img/product/01/b01.png",
+      "productdetail": "<p><img src='./static/img/product/01/01.jpg'><img src='./static/img/product/01/02.jpg'><img src='./static/img/product/01/03.jpg'><img src='./static/img/product/01/04.jpg'><img src='./static/img/product/01/05.jpg'></p>"
+    },
+    {
+      "id": 2,
+      "name": "醉藤你",
+      "bannerImg": "./static/img/product/02/b01.png",
+      "productdetail": "<p><img src='./static/img/product/02/01.jpg'><img src='./static/img/product/02/02.jpg'><img src='./static/img/product/02/03.jpg'><img src='./static/img/product/02/04.jpg'><img src='./static/img/product/02/05.jpg'></p>"
+    },
+    {
+      "id": 3,
+      "name": "酒藤知己",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/03/01.jpg'><img src='./static/img/product/03/02.jpg'><img src='./static/img/product/03/03.jpg'><img src='./static/img/product/03/04.jpg'><img src='./static/img/product/03/05.jpg'></p>"
+    },
+    {
+      "id": 4,
+      "name": "明前绿藤",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/04/01.jpg'><img src='./static/img/product/04/02.jpg'><img src='./static/img/product/04/03.jpg'><img src='./static/img/product/04/04.jpg'><img src='./static/img/product/04/05.jpg'></p>"
+    },
+    {
+      "id": 5,
+      "name": "玫瑰紫藤",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/05/01.jpg'><img src='./static/img/product/05/02.jpg'><img src='./static/img/product/05/03.jpg'><img src='./static/img/product/05/04.jpg'><img src='./static/img/product/05/05.jpg'></p>"
+    },
+    {
+      "id": 6,
+      "name": "红袍黑藤",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/06/01.jpg'><img src='./static/img/product/06/02.jpg'><img src='./static/img/product/06/03.jpg'><img src='./static/img/product/06/04.jpg'><img src='./static/img/product/06/05.jpg'></p>"
+    }
+  ,
+    {
+      "id": 7,
+      "name": "碧波水漾",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/02/01.jpg'><img src='./static/img/product/02/02.jpg'><img src='./static/img/product/02/03.jpg'><img src='./static/img/product/02/04.jpg'><img src='./static/img/product/02/05.jpg'></p>"
+    },
+    {
+      "id": 8,
+      "name": "饮水机",
+      "bannerImg": "./static/img/product/03/b01.png",
+      "productdetail": "<p><img src='./static/img/product/01/01.jpg'><img src='./static/img/product/01/02.jpg'><img src='./static/img/product/01/03.jpg'><img src='./static/img/product/01/04.jpg'><img src='./static/img/product/01/05.jpg'></p>"
+    }
+  ]
+}
